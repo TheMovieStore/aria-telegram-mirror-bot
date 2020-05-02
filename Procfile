@@ -1,1 +1,1 @@
-worker : bash aria-telegram-mirror-bot-start-bot.sh
+worker : bash start.sh
